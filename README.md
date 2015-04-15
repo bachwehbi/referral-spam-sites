@@ -1,4 +1,5 @@
-# referral-spam-list
+# List of Referrer Spam Sites
+
 Provides a list of SPAM referral sites.
 
 * buttons-for-website.com
@@ -7,5 +8,3 @@ Provides a list of SPAM referral sites.
 * social-buttons.com
 * googlsucks.com
 * best-seo-offer.com
-
-

@@ -1,6 +1,6 @@
 # List of Analytics Referrer Spam Sites
 
-Provides a list of SPAM referral sites.
+Provides a list (far from exhaustive) of SPAM referral sites.
 
 * buttons-for-website.com
 * semalt.com

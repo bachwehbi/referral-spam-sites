@@ -12,3 +12,4 @@ Provides a list of SPAM referral sites.
   * site3.free-share-buttons.com
   * site4.free-share-buttons.com
 * 4webmasters.org
+* event-tracking.com

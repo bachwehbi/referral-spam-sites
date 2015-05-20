@@ -13,3 +13,4 @@ Provides a list (far from exhaustive) of SPAM referral sites.
   * site4.free-share-buttons.com
 * 4webmasters.org
 * event-tracking.com
+* ilovevitaly.com

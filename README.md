@@ -1,5 +1,7 @@
 # List of Analytics Referrer Spam Sites
 
+**This list is poorly updated, Check [referrer-spam-blacklist](https://github.com/piwik/referrer-spam-blacklist) for community maintained list!**
+
 Provides a list (far from exhaustive) of SPAM referral sites.
 
 * 4webmasters.org
